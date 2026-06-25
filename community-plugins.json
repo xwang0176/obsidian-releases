@@ -35566,4 +35566,11 @@
     "description": "Polish selected text with instant rephrase suggestions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "grp06/RephraseThis"
   }
+    {
+    "id": "obsidian-agent-context",
+    "name": "Obsidian Agent Context",
+    "author": "Xu Wang",
+    "description": "Create local, token-free context maps that help AI agents navigate your Obsidian vault.",
+    "repo": "xwang0176/obsidian-agent-context"
+  }
 ]
